@@ -34,7 +34,7 @@
     },
     {
       "matches": [
-        "https://example.uz/*"
+        "https://emehmon.uz/listovka/*"
       ],
       "js": [
         "save/save_data.js"
